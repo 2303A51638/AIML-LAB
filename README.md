@@ -4,4 +4,6 @@ lab 02 - https://github.com/2303A51638/AIML-LAB/blob/main/LAB_2.ipynb
 
 lab 03 - https://github.com/2303A51638/AIML-LAB/blob/main/LAB_3.ipynb
 
+lab 04 - https://github.com/2303A51638/AIML-LAB/blob/main/LAB_4.ipynb
+
 
