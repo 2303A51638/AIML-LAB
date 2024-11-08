@@ -15,3 +15,5 @@
 #[lab08]( https://github.com/2303A51638/AIML-LAB/blob/main/Untitled16.ipynb)
 
 #[Lab10](https://github.com/2303A51638/AIML-LAB/blob/main/AIML%20LAB10.ipynb)
+
+#[Lab09](https://github.com/2303A51638/AIML-LAB/blob/main/AIML%20LAB09.ipynb)
